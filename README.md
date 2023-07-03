@@ -3,7 +3,7 @@
 ###
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=otema666&label=Profile%20views&color=0e75b6&style=flat" alt="otema666" width="150" /> </p>
 
-<img align="right" width="140" src="https://i.imgur.com/uRZfmji.gif"  />
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=otema666&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -11,12 +11,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otema666&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-###
+####
+
+<img align="right" width="200" src="https://i.imgur.com/uRZfmji.gif"  />
+
+</br>
 
 
-
-
-###
+</br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -44,9 +46,11 @@
 
 ###
 
+</br>
+
 <div align="left">
   <a href="https://lookup.guru/1107473369751896064" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
   <a href="https://shorturl.at/gsI08" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 </div>
 
-#
+
