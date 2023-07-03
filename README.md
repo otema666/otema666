@@ -3,7 +3,7 @@
 ###
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=otema666&label=Profile%20views&color=0e75b6&style=flat" alt="otema666" width="150" /> </p>
 
-<img align="right" height="200" src="https://i.imgur.com/uRZfmji.gif"  />
+<img align="right" width="140" src="https://i.imgur.com/uRZfmji.gif"  />
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=otema666&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
