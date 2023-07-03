@@ -47,3 +47,6 @@
 <img src="https://raw.githubusercontent.com/otema666/otema666/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+![Snake animation](https://github.com/otema666/otema666/blob/output/github-contribution-grid-snake.svg)
