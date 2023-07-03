@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm otema 🦆</h1>
 
 ###
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=otema666&label=Profile%20views&color=0e75b6&style=flat" alt="otema666" width="150" /> </p>
+
+<img align="right" height="200" src="https://i.imgur.com/uRZfmji.gif"  />
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=otema666&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otema666&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/g0R9.gif"  />
+
+
 
 ###
 
@@ -31,22 +36,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+  <img width="12" />
+  <a href="https://shorturl.at/ckxN0" target="_blank"><img src="https://i.ibb.co/M7rvbgJ/910841797645836308-716-F7.png" alt="stich" height="30"></a>
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://lookup.guru/1107473369751896064" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+  <a href="https://shorturl.at/gsI08" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 </div>
 
-###
 
-<br clear="both">
+#
 
-<img src="https://raw.githubusercontent.com/otema666/otema666/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-![Snake animation](https://github.com/otema666/otema666/blob/output/github-contribution-grid-snake.svg)
